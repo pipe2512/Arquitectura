@@ -1,0 +1,1 @@
+vhdtdtfi -prj procesador4 -o C:/Users/pipe/Desktop/procesador4/Procesador4.tfi -module Procesador4 -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work UC.vhd -lib work Sumador.vhd -lib work RF.vhd -lib work ProgramCounter.vhd -lib work Multiplexor.vhd -lib work InstructionMemory.vhd -lib work ExtSign.vhd -lib work ALU.vhd -lib work Procesador2.vhd 

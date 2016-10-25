@@ -1,0 +1,3 @@
+vhdtdtfi -lib work PSRModifier.vhd -prj procesador4 -o PSRModifier.spl -module PSRModifier -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e PSRModifier.spl C:/Users/pipe/Desktop/procesador4/PSRModifier.sym 
+vhdtdtfi -prj procesador4 -o C:/Users/pipe/Desktop/procesador4/PSRModifier.tfi -module PSRModifier -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work PSRModifier.vhd 

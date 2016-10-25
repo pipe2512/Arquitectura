@@ -1,0 +1,9 @@
+[Inputs]
+oper131
+oper231
+rst
+=ALUResult[31:0]=
+=ALUOP[5:0]=
+[Outputs]
+=nzvc[3:0]=
+[BiDir]
