@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+Procesador4 instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .Result(Result)
+    );
+
+
