@@ -1,0 +1,4 @@
+vhdtdtfi -prj procesador4 -o C:/Users/pipe/Desktop/procesador4/PSR.tfi -module PSR -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work PSR.vhd 
+vhdtdtfi -prj procesador4 -o C:/Users/pipe/Desktop/procesador4/PSR.tfi -module PSR -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work PSR.vhd 
+vhdtdtfi -prj procesador4 -o C:/Users/pipe/Desktop/procesador4/PSR.tfi -module PSR -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work PSR.vhd 
+vhdtdtfi -prj procesador4 -o C:/Users/pipe/Desktop/procesador4/PSR.tfi -module PSR -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work PSR.vhd 
