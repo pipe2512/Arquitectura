@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesado6 -o "C:/Users/pipe/Desktop/Arquitectura-pro6/Arquitectura-pro6/Procesador 6/Procesado6/DataMemory.vhi" -module DataMemory -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../DataMemory.vhd 

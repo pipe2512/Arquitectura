@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/pipe/Desktop/Arquitectura-pro6/Arquitectura-pro6/Procesador 6/Procesado6/tb_procesador6_isim_beh.exe" -prj "C:/Users/pipe/Desktop/Arquitectura-pro6/Arquitectura-pro6/Procesador 6/Procesado6/tb_procesador6_beh.prj" "work.tb_procesador6" 
